@@ -1,0 +1,4 @@
+Flask==2.0.1
+TensorFlow==2.7.0
+spaCy==3.2.1
+nltk==3.6.3

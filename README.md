@@ -19,4 +19,24 @@ This project is an AI-powered chatbot designed to engage in meaningful conversat
 - **Other Tools**: Docker (optional), Git for version control
 
 ## Project Structure
+AI-Powered-Chatbot/
+│
+├── data/
+│   └── raw/                # Store raw data files
+│
+├── docs/                   # Documentation files
+│
+├── src/
+│   ├── __init__.py
+│   ├── chatbot.py          # Core chatbot logic
+│   ├── nlp_processing.py   # NLP processing functions
+│   └── utils.py            # Utility functions
+│
+├── tests/                  # Test files
+│   └── test_chatbot.py
+│
+├── .gitignore
+├── README.md
+├── requirements.txt
+└── setup.py
 
